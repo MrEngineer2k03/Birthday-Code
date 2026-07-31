@@ -1064,8 +1064,8 @@ body {
 @media screen and (max-width: 658px) {
 
   .title {
-    font-size: 1.2rem;   /* smaller overall */
-    letter-spacing: 4px; /* reduce spacing */
+    font-size: 1rem;   /* scale down to fit Birthday PRINCESS */
+    letter-spacing: 2px; /* reduce spacing */
   }
 
   .title .happy,
